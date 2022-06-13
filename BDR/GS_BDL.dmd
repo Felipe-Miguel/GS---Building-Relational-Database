@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="GS_BDL" id="74619C58-2006-3A97-ADA8-DA30B0C3ED6B" version="3.5">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2022-06-10 11:07:35 UTC</createdTime>
+<ownerDesignName>GS_BDL</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>74619C58-2006-3A97-ADA8-DA30B0C3ED6B</designId>
+</OSDM_Design>
